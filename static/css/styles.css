@@ -1,0 +1,11 @@
+body {
+padding: 35px;
+}
+
+.btn {
+margin-top: 10px;
+}
+
+input, select {
+max-width: 35%;
+}
